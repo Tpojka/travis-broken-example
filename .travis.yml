@@ -3,6 +3,4 @@ php:
   - 7.4
   - 7.3
   - 7.2
-install: 
-  - composer require nesbot/carbon
 script: phpunit Test.php
